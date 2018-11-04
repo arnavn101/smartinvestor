@@ -22,5 +22,6 @@ Steps for Running the tool:
 13) You should see a graph detailing all of our data. Once you cloe one graph, another differenr graph would be shown.
 14) At the end of program, you can see the final prediction of profit of your company
 15) You can also click the "Click here to find Predicted Profit" button in our main page to get the profit
+16) Once finished delete the info.text file from your downloads so you can program this once again. Thx!
 
 Hope this tool helps :) Feel free to tell the contributors about your problems with this too. 
