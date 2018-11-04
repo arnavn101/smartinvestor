@@ -17,7 +17,7 @@ Steps for Running the tool:
 8) On the top of your screen you will see a warning sign. Right click on it and make it allow blocked content.
 9) Now click the button that says Analyze Data and answer yes to the prompt that will pop up.
 10) You should see a cmd in your broswer. In it, you should type "cd ../../../.."
-11) Now, navigative inside the directory where you have our file, and run this command: spyder stockpredictor.py
+11) Now, navigative inside the directory with use of cd to go to the location where the main code is stored, and run this command: spyder stockpredictor.py
 12) After a while, a Spyder console should pop up, and then you can click f5 or the green run button at top
 13) You should see a graph detailing all of our data. Once you cloe one graph, another differenr graph would be shown.
 14) At the end of program, you can see the final prediction of profit of your company
