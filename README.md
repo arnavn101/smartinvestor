@@ -1,7 +1,7 @@
 # smartinvestor
 A reliable source which helps you to analyze different stocks, and help you make the smartest investment in order to increase your return profit
 
-* It makes use of SkiKit Learn modules and animated CSS to accomplush its task
+* It makes use of SkiKit Learn modules and animated CSS to accomplish its task
 
 * This program can currently be run from only any interface with Spyder installed.  
 
