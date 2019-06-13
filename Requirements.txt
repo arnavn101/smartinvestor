@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+shutil
+os
+sklearn
+statsmodels
+mpld3
